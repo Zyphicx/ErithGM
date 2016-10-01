@@ -6,5 +6,5 @@ behaviour: NEUTRAL_BERSERK
 equipment:
     helmet: IRON_HELMET
     leggings: GOLD_LEGGINGS
-invisible: true
+invisible: false
 baby: false
