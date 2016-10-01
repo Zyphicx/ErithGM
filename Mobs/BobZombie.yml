@@ -1,8 +1,0 @@
-customName: Bob
-type: ZOMBIE
-health: 1
-speed: 0.25
-behaviour: GUARD
-equipment:
-    helmet: IRON_HELMET
-baby: true
