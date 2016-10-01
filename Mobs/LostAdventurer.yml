@@ -1,0 +1,10 @@
+customName: Lost Adventurer
+type: ZOMBIE
+health: 15
+behaviour: PASSIVE
+equipment:
+    helmet: IRON_HELMET
+    chest: IRON_CHESTPLATE
+    mainhand: IRON_PICKAXE
+    offhand: IRON_PICKAXE
+baby: false
