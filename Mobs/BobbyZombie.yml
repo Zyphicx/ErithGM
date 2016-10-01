@@ -1,7 +1,7 @@
 customName: Bobby
 type: ZOMBIE
 health: 100
-speed: 0.5
+speed: 0.6
 behaviour: NEUTRAL_BERSERK
 equipment:
     helmet: IRON_HELMET
